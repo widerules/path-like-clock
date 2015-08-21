@@ -1,0 +1,1 @@
+a android app shows clock like path2.0
